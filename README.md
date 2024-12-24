@@ -2,6 +2,8 @@
 This is a proxy developed to intercept the game protocol used in SmartFoxServer 2X. It was created
 for a specific app, so it may need some adjustments for other configurations.
 
+To understand more about SmartFoxServer go [here](https://docs2x.smartfoxserver.com/GettingStarted/installation).
+
 
 # Setup
 Download the [installer](https://www.smartfoxserver.com/download/sfs2x#p=installer). From within here you can 
